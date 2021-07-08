@@ -1,0 +1,32 @@
+{
+  "name": "discord",
+  "description": "Discord Client for Desktop",
+  "main": "app/index.js",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Discord inc",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "devtron": "1.4.0",
+    "electron": "^13.1.6",
+    "electron-builder": "^22.11.7"
+  },
+  "dependencies": {
+    "@sentry/node": "6.0.0",
+    "fs.realpath": "^1.0.0",
+    "glasstron": "0.0.7",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "lodash": "^4.17.21",
+    "minimatch": "^3.0.4",
+    "mkdirp": "git://github.com/substack/node-mkdirp.git",
+    "path-is-absolute": "^2.0.0",
+    "request": "2.88.0",
+    "rimraf": "^2.6.3",
+    "yauzl": "^2.10.0"
+  }
+}
