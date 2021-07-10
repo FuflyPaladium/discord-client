@@ -12,6 +12,11 @@ npm i electron --save-dev
 npm start
 ```
 
+> Build :
+```
+npm run dist
+```
+
 > Tutorial : 
 ```
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
