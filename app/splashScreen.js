@@ -415,7 +415,7 @@ function launchSplashWindow(startMinimized) {
     }
 
     if (splashWindow && !startMinimized) {
-      splashWindow.show();
+      //splashWindow.show();
     }
 
     if (newUpdater != null) {
