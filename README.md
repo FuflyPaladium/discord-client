@@ -4,23 +4,23 @@
 
 **Install :**
 ```
-git clone https://github.com/FuflyPaladium/discord-client/
-npm install
-npm i electron --save-dev
+$ git clone https://github.com/FuflyPaladium/discord-client/
+$ npm install
+$ npm i electron --save-dev
 ```
 
 ---
 
 **Start :** 
 ```
-npm start
+$ npm start
 ```
 
 ---
 
 **Build :**
 ```
-npm run dist
+$ npm run dist
 ```
 
 ---
