@@ -5,6 +5,7 @@
 **Install :**
 ```
 $ git clone https://github.com/FuflyPaladium/discord-client/
+$ cd discord-client
 $ npm install
 $ npm i electron --save-dev
 ```
