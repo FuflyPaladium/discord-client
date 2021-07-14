@@ -1,23 +1,31 @@
 # Discord Desktop Client Sources
 
-> Install :
+---
+
+> **Install :**
 ```
 git clone https://github.com/FuflyPaladium/discord-client/
 npm install
 npm i electron --save-dev
 ```
 
-> Start : 
+---
+
+> **Start :** 
 ```
 npm start
 ```
 
-> Build :
+---
+
+> **Build :**
 ```
 npm run dist
 ```
 
-> Tutorial : 
+---
+
+> **Tutorial :** 
 ```
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
